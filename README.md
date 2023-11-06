@@ -47,5 +47,5 @@ DevOps / Software Engineer.
 <h6><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></h6>
 
 ### GitHub's Data Statistics
-![](https://raw.githubusercontent.com/sathir/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sathir/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Data](https://raw.githubusercontent.com/sathir/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Data](https://raw.githubusercontent.com/sathir/github-stats/master/generated/languages.svg#gh-dark-mode-only)
