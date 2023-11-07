@@ -24,21 +24,17 @@ DevOps / Software Engineer.
 ![VUEJS](https://img.shields.io/badge/Vue.js-black?logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
-
 ![AWS](https://img.shields.io/badge/-AWS-black?&logo=Amazon-AWS&logoColor=fff)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-black?logo=google-cloud)
 ![Linux](https://img.shields.io/badge/-Linux-black?&logo=Linux)
-
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=php)
 ![Java](https://img.shields.io/badge/Java-black?logo)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-Html5-black?&logo=Html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?&logo=CSS3)
-
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
-
 ![VScode](https://img.shields.io/badge/VSCode-black?&logo=visualstudiocode)
 
 
@@ -47,12 +43,7 @@ DevOps / Software Engineer.
 <h6><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></h6>
 
 ### GitHub's Data Statistics
-![Data](https://raw.githubusercontent.com/sathir/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Data](https://raw.githubusercontent.com/sathir/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 <a href="https://github.com/sathir/github-stats">
 <img src="https://github.com/sathir/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/sathir/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/sathir/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/sathir/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
