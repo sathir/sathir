@@ -5,9 +5,11 @@
   }
 </style> -->
 
+<h4 style="font-family:cursive"  align="center">
 <a align="center" style="font-family:cursive">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 </a>
+</h4>
 <h4 style="font-family:cursive"  align="center">
 Hello there, I'm Sathir !, Welcome to my GitHub page. 
 <br/>
