@@ -5,7 +5,10 @@
   }
 </style> -->
 <h4 style="font-family:cursive"  align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">
+<a><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></a>
+<br/>
+
+[//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
 Hello there, I'm Sathir !, Welcome to my GitHub page. 
 <br/>
 this is the place I binge  my Coding Ideas.
@@ -34,10 +37,9 @@ DevOps / Software Engineer.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![VScode](https://img.shields.io/badge/VSCode-black?&logo=visualstudiocode)
 
+[//]: # (### Socials & Visit Count)
 
-### Socials & Visit Count
-<!-- [![Github Follow](https://img.shields.io/github/follow/sathir?label=People%20following%20me%20on%20Github&style=social)](https://github.com/intent/follow?screen_name=sathir) -->
-<h6><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></h6>
+[//]: # (<a><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></a>)
 
 ### GitHub's Data Statistics
 <a href="https://github.com/sathir/github-stats">
