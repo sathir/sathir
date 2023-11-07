@@ -4,10 +4,8 @@
       font-family:disney;
   }
 </style> -->
-<a align="center" style="font-family:cursive">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">
-</a>
 <h4 style="font-family:cursive"  align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">
 Hello there, I'm Sathir !, Welcome to my GitHub page. 
 <br/>
 this is the place I binge  my Coding Ideas.
